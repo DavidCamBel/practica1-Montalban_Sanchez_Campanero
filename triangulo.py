@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 def checktriangle(a, b, c):
     if ((c < a + b) and (a < b + c) and (b < a + c)):
         if ((a == b) and (b == c)):
