@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 def checktriangle(a, b, c):
     if ((c < a + b) and (a < b + c) and (b < a + c)):
         if ((a == b) and (b == c)):
@@ -8,4 +9,5 @@ def checktriangle(a, b, c):
             return "Triangulo escaleno"
     else:
         return "No es un triangulo"
+
 

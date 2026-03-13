@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import pytest
 from triangulo import checktriangle
 
